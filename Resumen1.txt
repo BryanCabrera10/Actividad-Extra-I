@@ -1,0 +1,3 @@
+La unidad 1 fue importante ya que aprendimos temas basicos necesarios para comprender mas la funionalidad de una computadora
+a la toma desiciones, la parte importante del codigo binario y como es su funcionalidad, los algoritmos, estos nos ayudan
+a estructurar nuestros programas y como hacerlos mas eficientes.
