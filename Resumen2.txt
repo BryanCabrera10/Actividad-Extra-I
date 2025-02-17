@@ -1,0 +1,7 @@
+En la unidad 2 ya nos adentramos un poco mas a lo que es 
+la programacion, en este caso java, creo que fue importante
+ya que aprendimos como ir creando programas, aprendimos sobre
+el if, sobre los ciclos como lo es el while o el i, tuvimos
+ejemplos de como utilizarlos y en la practica pudimos comprender
+de mejor manera ya que nos toco pensar como colocar el codigo
+para una buena ejecucion del programa.
